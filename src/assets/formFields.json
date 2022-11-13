@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "name": "field1",
+      "label": "Field 1",
+      "value": "",
+      "type": "text",
+      "validators": {
+        "required": true
+      }
+    },
+    {
+      "name": "field2",
+      "label": "Field 2",
+      "value": "",
+      "type": "number",
+      "validators": {
+        "required": true
+      }
+    },
+    {
+      "name": "field3",
+      "label": "Field 3",
+      "value": "",
+      "type": "dropdown",
+      "validators": {
+        "required": true
+      },
+      "options": [
+        {
+          "label": "Label 1",
+          "value": "label1"
+        },
+        {
+          "label": "Label 2",
+          "value": "label2"
+        }
+      ]
+    },
+    {
+      "name": "field5",
+      "label": "Field 5",
+      "value": "",
+      "type": "textArea",
+      "validators": {
+        "required": false
+      }
+    }
+  ]
+}
