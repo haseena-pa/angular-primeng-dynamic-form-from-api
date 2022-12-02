@@ -39,7 +39,7 @@
     },
     {
       "name": "field5",
-      "label": "Field 5",
+      "label": "Comment",
       "value": "",
       "type": "textArea",
       "validators": {
